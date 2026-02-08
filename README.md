@@ -46,6 +46,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+
+
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
@@ -73,7 +81,6 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 
 
-## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 
